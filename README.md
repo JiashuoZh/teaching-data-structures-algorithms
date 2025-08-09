@@ -111,27 +111,6 @@ MIT License — academic and personal use permitted.
 
 ---
 
-### Mini README template for each module (optional)
-
-Create a `README.md` inside each module with:
-
-```markdown
-# Module <num>: <Title>
-
-## Goals
-- …
-
-## Key Ideas
-- …
-
-## Implementation
-- Files and brief notes
-
-## Complexity
-- Time / Space with short justification
-
-## Tests
-- How to run `pytest` or simple checks
 
 ## Reflection
 - Pitfalls found, design choices, next steps
